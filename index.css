@@ -1,0 +1,52 @@
+/* .header{
+    display:flex;
+    justify-content: space-between;
+    margin: 10px;
+    border: 2px solid black;
+}
+
+.nav-items > ul {
+list-style-type: none;
+display:flex;
+
+}
+
+.nav-items > ul > li {
+    padding: 10px;
+}
+
+.logo{
+    margin-top: 2.5px;
+    width: 140px;
+
+}
+
+.card{
+    width: 200px;
+    border: 1px solid black;
+margin: 5px;
+border-radius: 5px;
+
+}
+
+
+.card > img {
+    width :100%;
+}
+
+.restaurant{
+    display: flex;
+    flex-wrap: wrap;
+    margin: 10px;
+}
+
+.search-container{
+    display: flex;
+} */
+
+
+
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
