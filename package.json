@@ -2,7 +2,6 @@
   "name": "namastereact",
   "version": "1.0.0",
   "description": "krishna",
-  "main": "App.js",
   "scripts": {
     "start": "parcel index.html",
     "build": "parcel build index.html",
@@ -18,6 +17,7 @@
   "author": "krishna",
   "license": "ISC",
   "devDependencies": {
+    "autoprefixer": "^10.5.0",
     "parcel": "^2.9.3",
     "postcss": "^8.4.27",
     "process": "^0.11.10",
